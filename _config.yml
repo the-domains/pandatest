@@ -1,0 +1,28 @@
+name: pandatest
+favicon: null
+layout_spectrum: 0.6112363028805703
+typography_spectrum: 0.4500547805801034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4384882301092148
+  lightness: 0.8562428860459477
+  saturation: 0.9779898182023317
+  rhythmicContrast: 0.24321750830858946
+purpose: []
